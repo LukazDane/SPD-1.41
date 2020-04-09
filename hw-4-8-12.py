@@ -33,4 +33,4 @@ def dupes(ls):
     return dupe.keys()
 
 
-dupes(nums)
+print(dupes(nums))
